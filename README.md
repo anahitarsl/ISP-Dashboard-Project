@@ -17,9 +17,8 @@ This is a Power BI dashboard built to analyze key performance indicators of an I
 
 ## 📁 Files Included
 
-- `project2.pdf` – A snapshot of the final dashboard in PDF format
-- *(Optional)* `ISP_Dashboard.pbix` – Original Power BI file
-- *(Optional)* `screenshots/` – Static views of dashboard visuals
+- `ISP Dashboard` – A snapshot of the final dashboard in PDF format
+- *(Optional)* `ISP Dashboard.pbix` – Original Power BI file
 
 ## 🛠️ Tools Used
 
